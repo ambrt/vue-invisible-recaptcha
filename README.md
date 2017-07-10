@@ -1,4 +1,4 @@
-# vue-invisible-recaptcha [![NPM version](https://badge.fury.io/js/vue-invisible-recaptcha.svg)](https://badge.fury.io/js/vue-invisible-recaptcha)
+# vue-invisible-recaptcha [![NPM version](https://badge.fury.io/js/vue-invisible-recaptcha.svg)](https://badge.fury.io/js/vue-invisible-recaptcha) [![Snippets Stats](https://codebottle.io/embed/search-badge?keywords=vue%20invisible%20recaptcha&language=6)](https://codebottle.io/?q=vue%20invisible%20recaptcha)
 
 > Super easy Invisible Recaptcha integration with VueJS
 
